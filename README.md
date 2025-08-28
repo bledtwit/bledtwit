@@ -36,6 +36,7 @@
 - 🛒 **[CRUD система пользователей](https://github.com/bledtwit/PROJECT_NAME)** — регистрация, авторизация, управление пользователями  
 - 📦 **[REST API магазин](https://github.com/bledtwit/PROJECT_NAME)** — API для продуктов и заказов  
 - 📊 **[База данных (PostgreSQL + Spring)](https://github.com/bledtwit/PROJECT_NAME)** — работа с SQL и ORM  
+- 🤖 **[Личный бот (Render,REST API)](https://github.com/bledtwit/portfolioBot2)** — Создание личного бота, для ваших вопросов
 
 ---
 
@@ -45,11 +46,7 @@
 - 🤖 Telegram-бот: [@nineteenmgbot](https://t.me/nineteenmgbot)  
 - 🌍 Сайт: [bledtwit.github.io](https://bledtwit.github.io)  
 - 🐙 GitHub: [Мой профиль](https://github.com/bledtwit)  
-
----
-
-### 🐍 Змейка с моими коммитами  
-![Snake animation](https://github.com/bledtwit/bledtwit/blob/output/github-contribution-grid-snake.svg)
+- 💼 HH.ru: [Мое резюме](https://hh.ru/resume/298b9f6eff0f4466180039ed1f3466466e6e62) 
 
 ---
 
