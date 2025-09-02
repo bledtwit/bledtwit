@@ -39,6 +39,9 @@
 - 📦 **[REST API магазин](https://github.com/bledtwit/PROJECT_NAME)** — API для продуктов и заказов  
 - 📊 **[База данных (PostgreSQL + Spring)](https://github.com/bledtwit/PROJECT_NAME)** — работа с SQL и ORM  
 - 🤖 **[Личный бот (Render,REST API)](https://github.com/bledtwit/portfolioBot2)** — Создание личного бота, для ваших вопросов
+- 🤖 **[Бот Конвертации валют (Java, Docker)](https://github.com/bledtwit/financebot)** — Telegram-бот для получения курсов валют и конвертации в рубли.
+
+
 
 ---
 
